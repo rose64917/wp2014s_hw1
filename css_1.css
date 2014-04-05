@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+   background: #FFFFEB;
+  font-family: '文泉驛微米黑', 'LiHei Pro', '微軟正黑體', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  
+}
+
+article{
+  width:700px;
+  padding: 1em;
+  background: url(http://subtlepatterns.com/patterns/food.png) repeat;
+ 
+}
